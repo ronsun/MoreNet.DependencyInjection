@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{47B6840E-5F0B-4816-996E-900C4AABB447}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreNet.DependencyInjection", "MoreNet.DependencyInjection\MoreNet.DependencyInjection.csproj", "{72563BC5-CEB2-4548-9B3E-F2F97D665C9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreNet.DependencyInjection.UnitTests", "MoreNet.DependencyInjection.UnitTests\MoreNet.DependencyInjection.UnitTests.csproj", "{DF14832C-E3FE-4336-9F5E-1A5879FD9E8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreNet.DependencyInjection.IntegrationTests", "MoreNet.DependencyInjection.IntegrationTests\MoreNet.DependencyInjection.IntegrationTests.csproj", "{83F6441C-F063-4CE1-BC13-59D0E797E65A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreNet.DependencyInjection.Demo", "MoreNet.DependencyInjection.Demo\MoreNet.DependencyInjection.Demo.csproj", "{CE416395-D233-4B4D-8D01-1996A53A61C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72563BC5-CEB2-4548-9B3E-F2F97D665C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72563BC5-CEB2-4548-9B3E-F2F97D665C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72563BC5-CEB2-4548-9B3E-F2F97D665C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72563BC5-CEB2-4548-9B3E-F2F97D665C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF14832C-E3FE-4336-9F5E-1A5879FD9E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF14832C-E3FE-4336-9F5E-1A5879FD9E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF14832C-E3FE-4336-9F5E-1A5879FD9E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF14832C-E3FE-4336-9F5E-1A5879FD9E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F6441C-F063-4CE1-BC13-59D0E797E65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F6441C-F063-4CE1-BC13-59D0E797E65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F6441C-F063-4CE1-BC13-59D0E797E65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F6441C-F063-4CE1-BC13-59D0E797E65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE416395-D233-4B4D-8D01-1996A53A61C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE416395-D233-4B4D-8D01-1996A53A61C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE416395-D233-4B4D-8D01-1996A53A61C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE416395-D233-4B4D-8D01-1996A53A61C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52DAC57B-24CC-4A65-86AC-7F57217EDEE6}
+	EndGlobalSection
+EndGlobal
