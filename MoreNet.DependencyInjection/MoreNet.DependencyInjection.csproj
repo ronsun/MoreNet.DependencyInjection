@@ -12,6 +12,7 @@
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/ronsun/MoreNet.DependencyInjection</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ronsun/MoreNet.DependencyInjection</RepositoryUrl>
+    <PackageReleaseNotes>First Version</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
