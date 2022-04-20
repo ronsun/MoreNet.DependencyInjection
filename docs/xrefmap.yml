@@ -1,0 +1,222 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Microsoft.Extensions.DependencyInjection
+  name: Microsoft.Extensions.DependencyInjection
+  href: api/Microsoft.Extensions.DependencyInjection.html
+  commentId: N:Microsoft.Extensions.DependencyInjection
+  fullName: Microsoft.Extensions.DependencyInjection
+  nameWithType: Microsoft.Extensions.DependencyInjection
+- uid: Microsoft.Extensions.DependencyInjection.Extensions
+  name: Microsoft.Extensions.DependencyInjection.Extensions
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.html
+  commentId: N:Microsoft.Extensions.DependencyInjection.Extensions
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions
+  nameWithType: Microsoft.Extensions.DependencyInjection.Extensions
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html
+  commentId: T:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedScoped*
+  name: TryAddNamedScoped
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddNamedScoped_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedScoped
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedScoped
+  nameWithType: ServiceCollectionExtensions.TryAddNamedScoped
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedScoped``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: TryAddNamedScoped<TService>(IServiceCollection)
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddNamedScoped__1_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedScoped``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: TryAddNamedScoped(Of TService)(IServiceCollection)
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedScoped(Of TService)(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.TryAddNamedScoped<TService>(IServiceCollection)
+  nameWithType.vb: ServiceCollectionExtensions.TryAddNamedScoped(Of TService)(IServiceCollection)
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedSingleton*
+  name: TryAddNamedSingleton
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddNamedSingleton_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedSingleton
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedSingleton
+  nameWithType: ServiceCollectionExtensions.TryAddNamedSingleton
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedSingleton``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: TryAddNamedSingleton<TService>(IServiceCollection)
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddNamedSingleton__1_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedSingleton``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: TryAddNamedSingleton(Of TService)(IServiceCollection)
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedSingleton(Of TService)(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.TryAddNamedSingleton<TService>(IServiceCollection)
+  nameWithType.vb: ServiceCollectionExtensions.TryAddNamedSingleton(Of TService)(IServiceCollection)
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedTransient*
+  name: TryAddNamedTransient
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddNamedTransient_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedTransient
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedTransient
+  nameWithType: ServiceCollectionExtensions.TryAddNamedTransient
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedTransient``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: TryAddNamedTransient<TService>(IServiceCollection)
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddNamedTransient__1_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedTransient``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: TryAddNamedTransient(Of TService)(IServiceCollection)
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedTransient<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedTransient(Of TService)(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.TryAddNamedTransient<TService>(IServiceCollection)
+  nameWithType.vb: ServiceCollectionExtensions.TryAddNamedTransient(Of TService)(IServiceCollection)
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddScopedEnumerable*
+  name: TryAddScopedEnumerable
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddScopedEnumerable_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddScopedEnumerable
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddScopedEnumerable
+  nameWithType: ServiceCollectionExtensions.TryAddScopedEnumerable
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddScopedEnumerable``2(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: TryAddScopedEnumerable<TService, TImplementation>(IServiceCollection)
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddScopedEnumerable__2_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddScopedEnumerable``2(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: TryAddScopedEnumerable(Of TService, TImplementation)(IServiceCollection)
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddScopedEnumerable<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddScopedEnumerable(Of TService, TImplementation)(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.TryAddScopedEnumerable<TService, TImplementation>(IServiceCollection)
+  nameWithType.vb: ServiceCollectionExtensions.TryAddScopedEnumerable(Of TService, TImplementation)(IServiceCollection)
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddSingletonEnumerable*
+  name: TryAddSingletonEnumerable
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddSingletonEnumerable_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddSingletonEnumerable
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddSingletonEnumerable
+  nameWithType: ServiceCollectionExtensions.TryAddSingletonEnumerable
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddSingletonEnumerable``2(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: TryAddSingletonEnumerable<TService, TImplementation>(IServiceCollection)
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddSingletonEnumerable__2_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddSingletonEnumerable``2(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: TryAddSingletonEnumerable(Of TService, TImplementation)(IServiceCollection)
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddSingletonEnumerable<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddSingletonEnumerable(Of TService, TImplementation)(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.TryAddSingletonEnumerable<TService, TImplementation>(IServiceCollection)
+  nameWithType.vb: ServiceCollectionExtensions.TryAddSingletonEnumerable(Of TService, TImplementation)(IServiceCollection)
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddTransientEnumerable*
+  name: TryAddTransientEnumerable
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddTransientEnumerable_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddTransientEnumerable
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddTransientEnumerable
+  nameWithType: ServiceCollectionExtensions.TryAddTransientEnumerable
+- uid: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddTransientEnumerable``2(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: TryAddTransientEnumerable<TService, TImplementation>(IServiceCollection)
+  href: api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_Extensions_ServiceCollectionExtensions_TryAddTransientEnumerable__2_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddTransientEnumerable``2(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: TryAddTransientEnumerable(Of TService, TImplementation)(IServiceCollection)
+  fullName: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddTransientEnumerable<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddTransientEnumerable(Of TService, TImplementation)(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.TryAddTransientEnumerable<TService, TImplementation>(IServiceCollection)
+  nameWithType.vb: ServiceCollectionExtensions.TryAddTransientEnumerable(Of TService, TImplementation)(IServiceCollection)
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html
+  commentId: T:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedScoped*
+  name: AddNamedScoped
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddNamedScoped_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedScoped
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedScoped
+  nameWithType: ServiceCollectionExtensions.AddNamedScoped
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedScoped``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: AddNamedScoped<TService>(IServiceCollection)
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddNamedScoped__1_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedScoped``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: AddNamedScoped(Of TService)(IServiceCollection)
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedScoped(Of TService)(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.AddNamedScoped<TService>(IServiceCollection)
+  nameWithType.vb: ServiceCollectionExtensions.AddNamedScoped(Of TService)(IServiceCollection)
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedSingleton*
+  name: AddNamedSingleton
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddNamedSingleton_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedSingleton
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedSingleton
+  nameWithType: ServiceCollectionExtensions.AddNamedSingleton
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedSingleton``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: AddNamedSingleton<TService>(IServiceCollection)
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddNamedSingleton__1_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedSingleton``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: AddNamedSingleton(Of TService)(IServiceCollection)
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedSingleton(Of TService)(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.AddNamedSingleton<TService>(IServiceCollection)
+  nameWithType.vb: ServiceCollectionExtensions.AddNamedSingleton(Of TService)(IServiceCollection)
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedTransient*
+  name: AddNamedTransient
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddNamedTransient_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedTransient
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedTransient
+  nameWithType: ServiceCollectionExtensions.AddNamedTransient
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedTransient``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: AddNamedTransient<TService>(IServiceCollection)
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddNamedTransient__1_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedTransient``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: AddNamedTransient(Of TService)(IServiceCollection)
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedTransient<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddNamedTransient(Of TService)(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.AddNamedTransient<TService>(IServiceCollection)
+  nameWithType.vb: ServiceCollectionExtensions.AddNamedTransient(Of TService)(IServiceCollection)
+- uid: MoreNet.DependencyInjection
+  name: MoreNet.DependencyInjection
+  href: api/MoreNet.DependencyInjection.html
+  commentId: N:MoreNet.DependencyInjection
+  fullName: MoreNet.DependencyInjection
+  nameWithType: MoreNet.DependencyInjection
+- uid: MoreNet.DependencyInjection.INameable
+  name: INameable
+  href: api/MoreNet.DependencyInjection.INameable.html
+  commentId: T:MoreNet.DependencyInjection.INameable
+  fullName: MoreNet.DependencyInjection.INameable
+  nameWithType: INameable
+- uid: MoreNet.DependencyInjection.INameable.Name
+  name: Name
+  href: api/MoreNet.DependencyInjection.INameable.html#MoreNet_DependencyInjection_INameable_Name
+  commentId: P:MoreNet.DependencyInjection.INameable.Name
+  fullName: MoreNet.DependencyInjection.INameable.Name
+  nameWithType: INameable.Name
+- uid: MoreNet.DependencyInjection.INameable.Name*
+  name: Name
+  href: api/MoreNet.DependencyInjection.INameable.html#MoreNet_DependencyInjection_INameable_Name_
+  commentId: Overload:MoreNet.DependencyInjection.INameable.Name
+  isSpec: "True"
+  fullName: MoreNet.DependencyInjection.INameable.Name
+  nameWithType: INameable.Name
+- uid: MoreNet.DependencyInjection.INamedServiceContainer`1
+  name: INamedServiceContainer<TService>
+  href: api/MoreNet.DependencyInjection.INamedServiceContainer-1.html
+  commentId: T:MoreNet.DependencyInjection.INamedServiceContainer`1
+  name.vb: INamedServiceContainer(Of TService)
+  fullName: MoreNet.DependencyInjection.INamedServiceContainer<TService>
+  fullName.vb: MoreNet.DependencyInjection.INamedServiceContainer(Of TService)
+  nameWithType: INamedServiceContainer<TService>
+  nameWithType.vb: INamedServiceContainer(Of TService)
+- uid: MoreNet.DependencyInjection.INamedServiceContainer`1.GetService(System.String)
+  name: GetService(String)
+  href: api/MoreNet.DependencyInjection.INamedServiceContainer-1.html#MoreNet_DependencyInjection_INamedServiceContainer_1_GetService_System_String_
+  commentId: M:MoreNet.DependencyInjection.INamedServiceContainer`1.GetService(System.String)
+  fullName: MoreNet.DependencyInjection.INamedServiceContainer<TService>.GetService(System.String)
+  fullName.vb: MoreNet.DependencyInjection.INamedServiceContainer(Of TService).GetService(System.String)
+  nameWithType: INamedServiceContainer<TService>.GetService(String)
+  nameWithType.vb: INamedServiceContainer(Of TService).GetService(String)
+- uid: MoreNet.DependencyInjection.INamedServiceContainer`1.GetService*
+  name: GetService
+  href: api/MoreNet.DependencyInjection.INamedServiceContainer-1.html#MoreNet_DependencyInjection_INamedServiceContainer_1_GetService_
+  commentId: Overload:MoreNet.DependencyInjection.INamedServiceContainer`1.GetService
+  isSpec: "True"
+  fullName: MoreNet.DependencyInjection.INamedServiceContainer<TService>.GetService
+  fullName.vb: MoreNet.DependencyInjection.INamedServiceContainer(Of TService).GetService
+  nameWithType: INamedServiceContainer<TService>.GetService
+  nameWithType.vb: INamedServiceContainer(Of TService).GetService

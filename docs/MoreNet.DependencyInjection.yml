@@ -1,0 +1,59 @@
+### YamlMime:ManagedReference
+items:
+- uid: MoreNet.DependencyInjection
+  commentId: N:MoreNet.DependencyInjection
+  id: MoreNet.DependencyInjection
+  children:
+  - MoreNet.DependencyInjection.INameable
+  - MoreNet.DependencyInjection.INamedServiceContainer`1
+  langs:
+  - csharp
+  - vb
+  name: MoreNet.DependencyInjection
+  nameWithType: MoreNet.DependencyInjection
+  fullName: MoreNet.DependencyInjection
+  type: Namespace
+  assemblies:
+  - MoreNet.DependencyInjection
+references:
+- uid: MoreNet.DependencyInjection.INameable
+  commentId: T:MoreNet.DependencyInjection.INameable
+  name: INameable
+  nameWithType: INameable
+  fullName: MoreNet.DependencyInjection.INameable
+- uid: MoreNet.DependencyInjection.INamedServiceContainer`1
+  commentId: T:MoreNet.DependencyInjection.INamedServiceContainer`1
+  name: INamedServiceContainer<TService>
+  nameWithType: INamedServiceContainer<TService>
+  fullName: MoreNet.DependencyInjection.INamedServiceContainer<TService>
+  nameWithType.vb: INamedServiceContainer(Of TService)
+  fullName.vb: MoreNet.DependencyInjection.INamedServiceContainer(Of TService)
+  name.vb: INamedServiceContainer(Of TService)
+  spec.csharp:
+  - uid: MoreNet.DependencyInjection.INamedServiceContainer`1
+    name: INamedServiceContainer
+    nameWithType: INamedServiceContainer
+    fullName: MoreNet.DependencyInjection.INamedServiceContainer
+  - name: <
+    nameWithType: <
+    fullName: <
+  - name: TService
+    nameWithType: TService
+    fullName: TService
+  - name: '>'
+    nameWithType: '>'
+    fullName: '>'
+  spec.vb:
+  - uid: MoreNet.DependencyInjection.INamedServiceContainer`1
+    name: INamedServiceContainer
+    nameWithType: INamedServiceContainer
+    fullName: MoreNet.DependencyInjection.INamedServiceContainer
+  - name: '(Of '
+    nameWithType: '(Of '
+    fullName: '(Of '
+  - name: TService
+    nameWithType: TService
+    fullName: TService
+  - name: )
+    nameWithType: )
+    fullName: )

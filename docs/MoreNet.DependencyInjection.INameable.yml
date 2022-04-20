@@ -1,0 +1,96 @@
+### YamlMime:ManagedReference
+items:
+- uid: MoreNet.DependencyInjection.INameable
+  commentId: T:MoreNet.DependencyInjection.INameable
+  id: INameable
+  parent: MoreNet.DependencyInjection
+  children:
+  - MoreNet.DependencyInjection.INameable.Name
+  langs:
+  - csharp
+  - vb
+  name: INameable
+  nameWithType: INameable
+  fullName: MoreNet.DependencyInjection.INameable
+  type: Interface
+  source:
+    remote:
+      path: MoreNet.DependencyInjection/INameable.cs
+      branch: master
+      repo: https://github.com/ronsun/MoreNet.DependencyInjection.git
+    id: INameable
+    path: ../MoreNet.DependencyInjection/INameable.cs
+    startLine: 5
+  assemblies:
+  - MoreNet.DependencyInjection
+  namespace: MoreNet.DependencyInjection
+  summary: "\nNameable.\n"
+  example: []
+  syntax:
+    content: public interface INameable
+    content.vb: Public Interface INameable
+  modifiers.csharp:
+  - public
+  - interface
+  modifiers.vb:
+  - Public
+  - Interface
+- uid: MoreNet.DependencyInjection.INameable.Name
+  commentId: P:MoreNet.DependencyInjection.INameable.Name
+  id: Name
+  parent: MoreNet.DependencyInjection.INameable
+  langs:
+  - csharp
+  - vb
+  name: Name
+  nameWithType: INameable.Name
+  fullName: MoreNet.DependencyInjection.INameable.Name
+  type: Property
+  source:
+    remote:
+      path: MoreNet.DependencyInjection/INameable.cs
+      branch: master
+      repo: https://github.com/ronsun/MoreNet.DependencyInjection.git
+    id: Name
+    path: ../MoreNet.DependencyInjection/INameable.cs
+    startLine: 10
+  assemblies:
+  - MoreNet.DependencyInjection
+  namespace: MoreNet.DependencyInjection
+  summary: "\nGets name.\n"
+  example: []
+  syntax:
+    content: string Name { get; }
+    parameters: []
+    return:
+      type: System.String
+    content.vb: ReadOnly Property Name As String
+  overload: MoreNet.DependencyInjection.INameable.Name*
+  modifiers.csharp:
+  - get
+  modifiers.vb:
+  - ReadOnly
+references:
+- uid: MoreNet.DependencyInjection
+  commentId: N:MoreNet.DependencyInjection
+  name: MoreNet.DependencyInjection
+  nameWithType: MoreNet.DependencyInjection
+  fullName: MoreNet.DependencyInjection
+- uid: MoreNet.DependencyInjection.INameable.Name*
+  commentId: Overload:MoreNet.DependencyInjection.INameable.Name
+  name: Name
+  nameWithType: INameable.Name
+  fullName: MoreNet.DependencyInjection.INameable.Name
+- uid: System.String
+  commentId: T:System.String
+  parent: System
+  isExternal: true
+  name: String
+  nameWithType: String
+  fullName: System.String
+- uid: System
+  commentId: N:System
+  isExternal: true
+  name: System
+  nameWithType: System
+  fullName: System
