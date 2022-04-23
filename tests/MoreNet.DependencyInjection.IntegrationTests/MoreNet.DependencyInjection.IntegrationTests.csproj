@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MoreNet.DependencyInjection\MoreNet.DependencyInjection.csproj" />
+    <ProjectReference Include="..\..\src\MoreNet.DependencyInjection\MoreNet.DependencyInjection.csproj" />
   </ItemGroup>
 
 </Project>

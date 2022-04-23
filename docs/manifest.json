@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/Ron/Desktop/MyGithub/MoreNet.DependencyInjection/MoreNet.DependencyInjection.DocFx",
+  "source_base_path": "C:/Users/Ron/Desktop/MyGithub/MoreNet.DependencyInjection/tools/MoreNet.DependencyInjection.DocFx",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "3zXseun1jLcNoxsLXd7yvrLY1ef2+cQy4nMC1cLHMrI="
+          "hash": "Zgpw+mXS4YEFhyGBECL+cje2r+kADTUG8WxFYinrif0="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "leARZ8BGQl/x0Suy14TGHZCc9t4tLuuizSGLxcFUHDg="
+          "hash": "INNQV4Ls4+mH4lcLZOveJfOzwyDue8X+Q97igSQueYk="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "DqiJV4TkHxvGtNFT89lpts5SgrYFo+Xe6YkkbxT9vLA="
+          "hash": "R/5vO+e/gtc0nA3myJW8saJKj+M4MTCPtK/nsMrC+Bw="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html",
-          "hash": "e+OyPbvb9g+bzKcjzlIo8qOO4mXyU4qnmnIGJheE8Vg="
+          "hash": "uo5pgzwnVuK5OMigQSKhWBZIcnozoSF773nGnNaoNj8="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html",
-          "hash": "y41z0WNhNcysVHxPCRPvUoRW/MpzJ+CG4E6UpZEwAo0="
+          "hash": "df50A61dP6Pl78EwqayorU9diwhL2gAt0L5gFYE0p70="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MoreNet.DependencyInjection.INameable.html",
-          "hash": "ZuWSYCUZeBHw4fP8DItJnEwtbnMUGzqsm2OxzbzjadA="
+          "hash": "FR0T3dQsB//3fW+SZ0wTtcpSI2Q+GNHXWSMAek1pZmk="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MoreNet.DependencyInjection.INamedServiceContainer-1.html",
-          "hash": "OpOPk2Q9Y/2MoFfwxCuduWYzq08W63JSviu9NAlML4M="
+          "hash": "SWwdxzR25G60551uXwg+9p68Jp61FVf7AbGzNQykYHc="
         }
       },
       "is_incremental": false,

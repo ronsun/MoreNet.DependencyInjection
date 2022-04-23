@@ -12,7 +12,7 @@
             "**/bin/**",
             "_site/**"
           ],
-          "src": "../MoreNet.DependencyInjection"
+          "src": "../../src/MoreNet.DependencyInjection"
         }
       ],
       "dest": "obj/api"
@@ -61,7 +61,7 @@
         ]
       }
     ],
-    "dest": "../docs",
+    "dest": "../../docs",
     "template": [
       "default"
     ]
