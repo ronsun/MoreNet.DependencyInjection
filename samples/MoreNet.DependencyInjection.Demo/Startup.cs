@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MoreNet.DependencyInjection.Demo.Controllers;
+using MoreNet.DependencyInjection.Extensions;
 
 namespace MoreNet.DependencyInjection.Demo
 {

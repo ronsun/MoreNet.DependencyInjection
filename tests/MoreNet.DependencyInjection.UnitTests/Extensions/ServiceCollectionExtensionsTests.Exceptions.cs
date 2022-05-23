@@ -1,5 +1,5 @@
 ﻿using FluentAssertions;
-using MoreNet.DependencyInjection;
+using MoreNet.DependencyInjection.Extensions;
 using NSubstitute;
 using NUnit.Framework;
 using System;

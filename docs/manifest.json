@@ -53,11 +53,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "obj/api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+      "source_relative_path": "obj/api/MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.Extensions.ServiceCollectionExtensions.html",
-          "hash": "uo5pgzwnVuK5OMigQSKhWBZIcnozoSF773nGnNaoNj8="
+          "relative_path": "api/MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.html",
+          "hash": "P/pgogi5hH6JWRNtmqkBG43H4fsMJcTxPxqZ7XOhhqE="
         }
       },
       "is_incremental": false,
@@ -65,35 +65,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "obj/api/Microsoft.Extensions.DependencyInjection.Extensions.yml",
+      "source_relative_path": "obj/api/MoreNet.DependencyInjection.Extensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.Extensions.html",
-          "hash": "PHHVFQSZeMe1GQke41VPIbK+N5ZJA+WKOHvC6O6Y1pQ="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html",
-          "hash": "df50A61dP6Pl78EwqayorU9diwhL2gAt0L5gFYE0p70="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/api/Microsoft.Extensions.DependencyInjection.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.html",
-          "hash": "WJa+37st3N5Tw++NN47T6lpt/z1OeUyR3ROKH5CXLZY="
+          "relative_path": "api/MoreNet.DependencyInjection.Extensions.html",
+          "hash": "84Is4rEhHbXZF29BtQ8hRv4JsdGga6Y5px8CbM6r9SQ="
         }
       },
       "is_incremental": false,
@@ -141,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "Q+sCJNVQeb2Umdeq2/NnVl1gc6vF12Gjtp6fu1gWVNw="
+          "hash": "8zTfuoYK8YBbSIetJU9jG+zgOZMP9ROEM1eJb6yjk2s="
         }
       },
       "is_incremental": false,
@@ -180,7 +156,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 7,
+          "total_file_count": 5,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
