@@ -1,0 +1,22 @@
+### YamlMime:ManagedReference
+items:
+- uid: MoreNet.DependencyInjection.Extensions
+  commentId: N:MoreNet.DependencyInjection.Extensions
+  id: MoreNet.DependencyInjection.Extensions
+  children:
+  - MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions
+  langs:
+  - csharp
+  - vb
+  name: MoreNet.DependencyInjection.Extensions
+  nameWithType: MoreNet.DependencyInjection.Extensions
+  fullName: MoreNet.DependencyInjection.Extensions
+  type: Namespace
+  assemblies:
+  - MoreNet.DependencyInjection
+references:
+- uid: MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions
+  commentId: T:MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+  fullName: MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions

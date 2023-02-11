@@ -1,0 +1,18 @@
+{
+  "MoreNet.DependencyInjection": "MoreNet.DependencyInjection.yml",
+  "MoreNet.DependencyInjection.Extensions": "MoreNet.DependencyInjection.Extensions.yml",
+  "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions": "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+  "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.AddNamedScoped``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)": "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+  "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.AddNamedSingleton``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)": "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+  "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.AddNamedTransient``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)": "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+  "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedScoped``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)": "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+  "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedSingleton``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)": "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+  "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddNamedTransient``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)": "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+  "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddScopedEnumerable``2(Microsoft.Extensions.DependencyInjection.IServiceCollection)": "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+  "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddSingletonEnumerable``2(Microsoft.Extensions.DependencyInjection.IServiceCollection)": "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+  "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.TryAddTransientEnumerable``2(Microsoft.Extensions.DependencyInjection.IServiceCollection)": "MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+  "MoreNet.DependencyInjection.INameable": "MoreNet.DependencyInjection.INameable.yml",
+  "MoreNet.DependencyInjection.INameable.Name": "MoreNet.DependencyInjection.INameable.yml",
+  "MoreNet.DependencyInjection.INamedServiceContainer`1": "MoreNet.DependencyInjection.INamedServiceContainer-1.yml",
+  "MoreNet.DependencyInjection.INamedServiceContainer`1.GetService(System.String)": "MoreNet.DependencyInjection.INamedServiceContainer-1.yml"
+}

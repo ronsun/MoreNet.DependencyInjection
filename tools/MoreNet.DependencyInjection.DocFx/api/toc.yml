@@ -1,0 +1,14 @@
+### YamlMime:TableOfContent
+- uid: MoreNet.DependencyInjection
+  name: MoreNet.DependencyInjection
+  items:
+  - uid: MoreNet.DependencyInjection.INameable
+    name: INameable
+  - uid: MoreNet.DependencyInjection.INamedServiceContainer`1
+    name: INamedServiceContainer<TService>
+    name.vb: INamedServiceContainer(Of TService)
+- uid: MoreNet.DependencyInjection.Extensions
+  name: MoreNet.DependencyInjection.Extensions
+  items:
+  - uid: MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions
+    name: ServiceCollectionExtensions

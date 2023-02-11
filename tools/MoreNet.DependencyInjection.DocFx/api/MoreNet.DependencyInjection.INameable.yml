@@ -15,11 +15,11 @@ items:
   type: Interface
   source:
     remote:
-      path: MoreNet.DependencyInjection/INameable.cs
+      path: src/MoreNet.DependencyInjection/INameable.cs
       branch: master
       repo: https://github.com/ronsun/MoreNet.DependencyInjection.git
     id: INameable
-    path: ../MoreNet.DependencyInjection/INameable.cs
+    path: ../../src/MoreNet.DependencyInjection/INameable.cs
     startLine: 5
   assemblies:
   - MoreNet.DependencyInjection
@@ -48,11 +48,11 @@ items:
   type: Property
   source:
     remote:
-      path: MoreNet.DependencyInjection/INameable.cs
+      path: src/MoreNet.DependencyInjection/INameable.cs
       branch: master
       repo: https://github.com/ronsun/MoreNet.DependencyInjection.git
     id: Name
-    path: ../MoreNet.DependencyInjection/INameable.cs
+    path: ../../src/MoreNet.DependencyInjection/INameable.cs
     startLine: 10
   assemblies:
   - MoreNet.DependencyInjection

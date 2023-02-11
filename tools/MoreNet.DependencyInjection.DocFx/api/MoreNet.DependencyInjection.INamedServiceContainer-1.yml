@@ -15,11 +15,11 @@ items:
   type: Interface
   source:
     remote:
-      path: MoreNet.DependencyInjection/INamedServiceContainer.cs
+      path: src/MoreNet.DependencyInjection/INamedServiceContainer.cs
       branch: master
       repo: https://github.com/ronsun/MoreNet.DependencyInjection.git
     id: INamedServiceContainer
-    path: ../MoreNet.DependencyInjection/INamedServiceContainer.cs
+    path: ../../src/MoreNet.DependencyInjection/INamedServiceContainer.cs
     startLine: 9
   assemblies:
   - MoreNet.DependencyInjection
@@ -56,11 +56,11 @@ items:
   type: Method
   source:
     remote:
-      path: MoreNet.DependencyInjection/INamedServiceContainer.cs
+      path: src/MoreNet.DependencyInjection/INamedServiceContainer.cs
       branch: master
       repo: https://github.com/ronsun/MoreNet.DependencyInjection.git
     id: GetService
-    path: ../MoreNet.DependencyInjection/INamedServiceContainer.cs
+    path: ../../src/MoreNet.DependencyInjection/INamedServiceContainer.cs
     startLine: 17
   assemblies:
   - MoreNet.DependencyInjection

@@ -4,12 +4,84 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.html",
+          "hash": "RfwuOQ55cV/Z1CcS6/hGb2KIL7vO5PNBkRCe7Qgaluo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MoreNet.DependencyInjection.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MoreNet.DependencyInjection.Extensions.html",
+          "hash": "sLDoQtRRLO3Yvjp6nKK+oK7zjAWSorgcNrSPmdpfiJI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MoreNet.DependencyInjection.INameable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MoreNet.DependencyInjection.INameable.html",
+          "hash": "N0a2KUaHjiSDpOxUTBJCHAQ3GDSsQ8MP2ZvDmIZILu4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MoreNet.DependencyInjection.INamedServiceContainer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MoreNet.DependencyInjection.INamedServiceContainer-1.html",
+          "hash": "E9PoyOYdFRdZej4Tv8d6V9m1Ydt2CVr2DicYVFHxzt4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MoreNet.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MoreNet.DependencyInjection.html",
+          "hash": "UUc4nXXr4d3AulSjrTOHhLCeFMAffgluyOogFQ2yqjM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "KZcAvZQ8h+OpCPbirBqg9NSkLJSqABzBQpfCPllcZEA="
+          "hash": "NvvAVrSrzIYrnKlMAn4Qy4Band6EkdotofMIsTMVgDc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "8zTfuoYK8YBbSIetJU9jG+zgOZMP9ROEM1eJb6yjk2s="
         }
       },
       "is_incremental": false,
@@ -21,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "yUa6IA/Lvl9Qnin+Ss7g5FkEG67TI9GCG3jzBw2Mi2s="
+          "hash": "TE5LrW5wISj3IMM8f39SgUnDqs8OEQlxSWdnMT/7igc="
         }
       },
       "is_incremental": false,
@@ -45,79 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "uV4fD53VV8FKwHhRLXHDSpaIYt1riD7Hv54Jfmr5aT4="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/api/MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MoreNet.DependencyInjection.Extensions.ServiceCollectionExtensions.html",
-          "hash": "M7UmDAtL7gd9awa6/NRuxrVxRswEzuKPBqrxmDg2gz8="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/api/MoreNet.DependencyInjection.Extensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MoreNet.DependencyInjection.Extensions.html",
-          "hash": "QCvDjt4Xgqx0a2QuKNbWfIoxG/V4dlBJ3JHtnJ/4RUc="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/api/MoreNet.DependencyInjection.INameable.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MoreNet.DependencyInjection.INameable.html",
-          "hash": "BRr1HBREnDHmSe4jF3XVkaJOf0uS+jyXAOC/BDZgFsk="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/api/MoreNet.DependencyInjection.INamedServiceContainer-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MoreNet.DependencyInjection.INamedServiceContainer-1.html",
-          "hash": "4he22yaBP5hzz00ceCRS4QWUXPUZuD8y3D4vG+uxqKg="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/api/MoreNet.DependencyInjection.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MoreNet.DependencyInjection.html",
-          "hash": "ymkDJ9kxALFZwvItyixIeJy/I51l1raF7f3cCTt7hxg="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "obj/api/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/toc.html",
-          "hash": "8zTfuoYK8YBbSIetJU9jG+zgOZMP9ROEM1eJb6yjk2s="
+          "hash": "17qQT6jxZz7RKCthRQCTsfar8H2YlYwC7feCNEZRjCU="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "Oa9PuD4E1hvZnCkVjUgzNBX6S00Zo5YilamTERTZo54="
+          "hash": "54i+GjGkcHU6vLaH03VxwxeqtQ0qatdslc+BlbETck0="
         }
       },
       "is_incremental": false,
