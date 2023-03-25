@@ -1,7 +1,8 @@
-### What's this
+### Introduce
 Some enhancement for dependency injection. 
 
-### Nameable service injection
+### How to use
+#### Nameable service injection
 Basically, we can inject `IEnumerable<TService>` to constructor and filter them by type, but it is not simple enough.  
 
 This project provide a solution to resolve it.
