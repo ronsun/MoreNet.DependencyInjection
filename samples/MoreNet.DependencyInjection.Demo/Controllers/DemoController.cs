@@ -17,7 +17,7 @@ namespace MoreNet.DependencyInjection.Demo.Controllers
         public IActionResult Get()
         {
             var forAddNamedScoped1 = _forAddNamedScoped.GetService("N1");
-            var forAddNamedScoped2 = _forAddNamedScoped.GetService("N1");
+            var forAddNamedScoped2 = _forAddNamedScoped.GetService("N2");
             var output =
 @$"
 Inteface: {nameof(IAddNamedScoped)}, Implementation: {forAddNamedScoped1.GetType()}, Name: {forAddNamedScoped1.Name}
