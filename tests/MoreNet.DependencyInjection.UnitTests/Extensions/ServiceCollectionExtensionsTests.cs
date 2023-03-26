@@ -127,56 +127,7 @@ namespace Microsoft.Extensions.DependencyInjection.Tests
 
         #endregion
 
-        [Test()]
-        public void NamedServiceDictionaryFactoryTest_ReturnsExpectedDictionary()
-        {
-            // arrange
-            var stubA = new FakeImplementationA();
-            var stubB = new FakeImplementationB();
-            var stubImplementations = new List<IFakeInterface> { stubA, stubB };
 
-            var mockedServiceProvider = Substitute.For<IServiceProvider>();
-            mockedServiceProvider.GetService(Arg.Is(typeof(IEnumerable<IFakeInterface>))).Returns(stubImplementations);
-
-            var expected = new ReadOnlyDictionary<string, IFakeInterface>(new Dictionary<string, IFakeInterface>
-            {
-                [stubA.Name] = stubA,
-                [stubB.Name] = stubB,
-            });
-
-            // act
-            IReadOnlyDictionary<string, IFakeInterface> actual = ServiceCollectionExtensions.NamedServiceDictionaryFactory<IFakeInterface>(mockedServiceProvider) as IReadOnlyDictionary<string, IFakeInterface>;
-
-            // assert
-            actual.Should().BeEquivalentTo(expected);
-        }
-    }
-}
-
-namespace Microsoft.Extensions.DependencyInjection.Extensions.Tests
-{
-    [TestFixture()]
-    public class ServiceCollectionExtensionsTests
-    {
-        private IServiceCollection _mockedServiceCollection;
-
-        private interface IFakeInterface : INameable { }
-
-        private class FakeImplementationA : IFakeInterface
-        {
-            public string Name => "A";
-        }
-
-        private class FakeImplementationB : IFakeInterface
-        {
-            public string Name => "B";
-        }
-
-        [SetUp]
-        public void Init()
-        {
-            _mockedServiceCollection = Substitute.For<IServiceCollection>();
-        }
 
         #region TryAddNamedSingleton
 
@@ -394,5 +345,29 @@ namespace Microsoft.Extensions.DependencyInjection.Extensions.Tests
         }
 
         #endregion
+
+        [Test()]
+        public void NamedServiceDictionaryFactoryTest_ReturnsExpectedDictionary()
+        {
+            // arrange
+            var stubA = new FakeImplementationA();
+            var stubB = new FakeImplementationB();
+            var stubImplementations = new List<IFakeInterface> { stubA, stubB };
+
+            var mockedServiceProvider = Substitute.For<IServiceProvider>();
+            mockedServiceProvider.GetService(Arg.Is(typeof(IEnumerable<IFakeInterface>))).Returns(stubImplementations);
+
+            var expected = new ReadOnlyDictionary<string, IFakeInterface>(new Dictionary<string, IFakeInterface>
+            {
+                [stubA.Name] = stubA,
+                [stubB.Name] = stubB,
+            });
+
+            // act
+            IReadOnlyDictionary<string, IFakeInterface> actual = ServiceCollectionExtensions.NamedServiceDictionaryFactory<IFakeInterface>(mockedServiceProvider) as IReadOnlyDictionary<string, IFakeInterface>;
+
+            // assert
+            actual.Should().BeEquivalentTo(expected);
+        }
     }
 }
