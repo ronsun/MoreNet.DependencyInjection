@@ -287,5 +287,5 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 
-# DocFx log
-tools/*.DocFx/log.txt
+# Docfx log
+tools/*.Docfx/log.txt

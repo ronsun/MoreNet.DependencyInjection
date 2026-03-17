@@ -20,7 +20,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreNet.DependencyInjection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{287E6A0C-82A3-47BB-B325-F5006488AC79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreNet.DependencyInjection.DocFx", "tools\MoreNet.DependencyInjection.DocFx\MoreNet.DependencyInjection.DocFx.csproj", "{3ACA9CA1-CF66-43D0-90B1-79589881CCAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreNet.DependencyInjection.Docfx", "tools\MoreNet.DependencyInjection.Docfx\MoreNet.DependencyInjection.Docfx.csproj", "{3ACA9CA1-CF66-43D0-90B1-79589881CCAB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{A0D21E25-F2D4-492F-AB0E-FE7C88B1C02B}"
 EndProject
