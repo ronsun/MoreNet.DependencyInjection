@@ -1,18 +1,25 @@
-### Introduce
-Some enhancement for dependency injection. 
+# MoreNet DependencyInjection
 
-### How to use
-#### Nameable service injection
-Basically, we can inject `IEnumerable<TService>` to constructor and filter them by type, but it is not simple enough.  
+Some enhancements for dependency injection.
 
-This project provide a solution to resolve it.
-1. Inherit from `INamebale`.
-2. Call `AddNamedScoped<TService>()` in `Startup.cs`
-3. Fianlly just inject `INamedServiceDictionary<TService>`.
+## Introduction
+
+This library provides a simpler way to work with named services in dependency injection.
+
+## Usage
+
+### Nameable service injection
+
+Basically, we can inject `IEnumerable<TService>` into a constructor and filter by type, but it is not simple enough.
+
+This project provides a solution for that:
+1. Inherit from `INameable`.
+2. Call `AddNamedScoped<TService>()` in `Startup.cs`.
+3. Finally, inject `INamedServiceContainer<TService>`.
 
 Here's an example:
-``` csharp
-// 1. Inherit from `INamebale` and implementation.
+```csharp
+// 1. Inherit from `INameable` and implement it.
 public interface IFoo : INameable
 {
 }
@@ -45,5 +52,6 @@ public DemoController(INamedServiceContainer<IFoo> foos)
 }
 ```
 
-### Others
-See [API Doc](https://ronsun.github.io/MoreNet.DependencyInjection/api) for APIs.
+## Documentation
+
+See the [API documentation](https://ronsun.github.io/MoreNet.DependencyInjection/api) for the full API reference.
