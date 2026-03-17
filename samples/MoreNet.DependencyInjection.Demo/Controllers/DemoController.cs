@@ -20,8 +20,8 @@ namespace MoreNet.DependencyInjection.Demo.Controllers
             var forAddNamedScoped2 = _forAddNamedScoped.GetService("N2");
             var output =
 @$"
-Inteface: {nameof(IAddNamedScoped)}, Implementation: {forAddNamedScoped1.GetType()}, Name: {forAddNamedScoped1.Name}
-Inteface: {nameof(IAddNamedScoped)}, Implementation: {forAddNamedScoped2.GetType()}, Name: {forAddNamedScoped2.Name}
+Interface: {nameof(IAddNamedScoped)}, Implementation: {forAddNamedScoped1.GetType()}, Name: {forAddNamedScoped1.Name}
+Interface: {nameof(IAddNamedScoped)}, Implementation: {forAddNamedScoped2.GetType()}, Name: {forAddNamedScoped2.Name}
 ";
             return Ok(output);
         }

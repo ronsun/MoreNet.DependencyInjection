@@ -151,9 +151,9 @@ namespace MoreNet.DependencyInjection.Extensions
         internal static INamedServiceContainer<TService> NamedServiceDictionaryFactory<TService>(IServiceProvider serviceProvider)
             where TService : INameable
         {
-            var implemetations = serviceProvider.GetServices<TService>();
+            var implementations = serviceProvider.GetServices<TService>();
             var underlyingDictionary = new Dictionary<string, TService>();
-            foreach (var impl in implemetations)
+            foreach (var impl in implementations)
             {
                 if (underlyingDictionary.ContainsKey(impl.Name))
                 {
