@@ -192,12 +192,13 @@ references:
   nameWithType: INamedServiceContainer<TService>
   nameWithType.vb: INamedServiceContainer(Of TService)
 - uid: MoreNet.DependencyInjection.INamedServiceContainer`1.GetService(System.String)
-  name: GetService(String)
+  name: GetService(string)
   href: api/MoreNet.DependencyInjection.INamedServiceContainer-1.html#MoreNet_DependencyInjection_INamedServiceContainer_1_GetService_System_String_
   commentId: M:MoreNet.DependencyInjection.INamedServiceContainer`1.GetService(System.String)
-  fullName: MoreNet.DependencyInjection.INamedServiceContainer<TService>.GetService(System.String)
-  fullName.vb: MoreNet.DependencyInjection.INamedServiceContainer(Of TService).GetService(System.String)
-  nameWithType: INamedServiceContainer<TService>.GetService(String)
+  name.vb: GetService(String)
+  fullName: MoreNet.DependencyInjection.INamedServiceContainer<TService>.GetService(string)
+  fullName.vb: MoreNet.DependencyInjection.INamedServiceContainer(Of TService).GetService(String)
+  nameWithType: INamedServiceContainer<TService>.GetService(string)
   nameWithType.vb: INamedServiceContainer(Of TService).GetService(String)
 - uid: MoreNet.DependencyInjection.INamedServiceContainer`1.GetService*
   name: GetService

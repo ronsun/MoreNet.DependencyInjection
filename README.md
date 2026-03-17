@@ -44,3 +44,6 @@ public DemoController(INamedServiceContainer<IFoo> foos)
     var foo1 = foos.GetService("N1");
 }
 ```
+
+### Others
+See [API Doc](https://ronsun.github.io/MoreNet.DependencyInjection/api) for APIs.

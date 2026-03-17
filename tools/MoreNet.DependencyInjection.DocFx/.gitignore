@@ -1,0 +1,3 @@
+api/*
+!api/.gitignore
+!api/index.md
